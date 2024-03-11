@@ -4,9 +4,9 @@
 </svg></h1>
 <p>I'm 17 y.o student from <strong><a href="https://www.tourmyindia.com/states/rajasthan/">Rjasthan</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 <h3>Quick Links</h3>
-<a href="https://github.com/jaisingh007"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
+<a href="https://github.com/JaiSinghRajput"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
 <h3 align="right">Profile views</h3>
-<img src="https://count.getloli.com/get/@jaisingh007?theme=moebooru" alt="" srcset="" align="right">
+<img src="https://count.getloli.com/get/@JaiSinghRajput?theme=moebooru" alt="" srcset="" align="right">
 
 <div align="left">
     <a href="https://telegram.me/radhe_krishna_hare_hare"><img src="https://img.shields.io/badge/NOBITA X  -30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
@@ -16,7 +16,7 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <br>
-<a href="https://github.com/jaisingh007"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
+<a href="https://github.com/JaiSinghRajput"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
     <li>🔭 I’m currently learning <a href="https://socket.io/">Socket-io</a> and you can find the stuffs I made <a href="https://telegram.dog/the_nobita_support"><b>here</b></a></li>
@@ -81,10 +81,10 @@
     <a href="http://t.me/Radhe_krishna_hare_hare" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Nobita x-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" srcset=""></a>
     <!-- <a href="https://discordapp.com/users/725668534008676403"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""></a> -->
     <a href="https://twitter.com/jai_820"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
-    <a href="https://gitlab.com/jaisingh007"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="" srcset=""></a>
+    <a href="https://gitlab.com/JaiSinghRajput"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="" srcset=""></a>
     <a href="https://open.spotify.com/user/31wxelomfpygr5k42tplgauoh6hu?si=kFfBDh8ATVqspNHNf2lp0Q"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
     <!-- <a href="https://steamcommunity.com/id/EverythingSuckz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="" srcset=""></a> -->
-    <a href="https://jaisingh007.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="" srcset=""></a>
+    <a href="https://JaiSinghRajput.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="" srcset=""></a>
     <a href="https://bento.me/nobitax"><img alt="BENTO" src="https://img.shields.io/badge/Bento-black?style=for-the-badge&logo=bento&logoColor=white"/></a>
     <a href="https://instagram.com/sastanobi007"><img alt="INSTA" src="https://img.shields.io/badge/instagram-grey?style=for-the-badge&logo=instagram&logoColor"/></a>
     <br>
@@ -93,7 +93,7 @@
 
 <h2>☕️ Coffee? yes!</h2>
 <p>
-    <a href="https://www.buymeacoffee.com/jaisingh007" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
+    <a href="https://www.buymeacoffee.com/JaiSinghRajput" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="30px" ></a>
     <!-- <a href="https://paypal.me/EverythingSuckz"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="" height="30px"></a> -->
 </p>
 <!-- <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="" style="border-radius: 5px; height: 30px;"> -->
@@ -105,11 +105,11 @@
 <h2 align="center">📈 My Github Stats! </h2>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jaisingh007&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
-    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=jaisingh007&show_icons=true&theme=radical" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JaiSinghRajput&theme=highcontrast&fire=DD5523&ring=E1397B&sideLabels=65FDF6&currStreakLabel=F9D659&&background=141320" width="48%" />
+    <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=JaiSinghRajput&show_icons=true&theme=radical" width="48%" />
 </div>  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaisingh007&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiSinghRajput&hide=dockerfile&theme=radical" alt="" srcset="" align="center" width="49%">
 </div>  
 
 # if you want you can pay me 😁 
