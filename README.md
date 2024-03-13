@@ -34,6 +34,7 @@
 - [ ] 🎓Completed my Studies
 - [x] 🎯Created My Own Repository
 - [ ] 👨‍💻 Do an internship
+- [X] 👨‍💻 Do an Project
 
 
 <h2 id=lang>Flexing the badges for.. nothing but flexing :)</h2>
