@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Jai Singh Rajput</h1>
+<h3 align="center">A passionate developer from India</h3>
+
 # 💫 About Me:
  🔭 I’m currently learning python machine learning libraries<br> 🧐 Currently mastering Python libraries like numpy , pandas , seaborn etc.<br> 👨‍💻 Most of my projects are based on Python and javascript.<br> 📺 I love watching moves and tv shows including anime.<br> 💬 I mostly use Telegram.<br> 😅 Fun Fact:  I  like to code <br>
 
