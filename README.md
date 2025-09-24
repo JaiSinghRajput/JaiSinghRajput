@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 # 💫 About Me:
- 🔭 I’m currently learning python machine learning libraries<br> 🧐 Currently mastering Python libraries like numpy , pandas , seaborn etc.<br> 👨‍💻 Most of my projects are based on Python and javascript.<br> 📺 I love watching moves and tv shows including anime.<br> 💬 I mostly use Telegram.<br> 😅 Fun Fact:  I  like to code <br>
+ 🔭 I’m currently learning python machine learning libraries<br> 🧐 Currently mastering Python libraries like numpy , pandas , seaborn etc.<br> 👨‍💻 Most of my projects are based on Python and javascript.<br> 📺 I love watching movies and TV shows including Anime.<br> 💬 I mostly use Telegram.<br> 😅 Fun Fact:  I  like to code <br>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaisingh._.rajput) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaisinghr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jai820) 
